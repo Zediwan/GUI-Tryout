@@ -197,6 +197,21 @@ public class Main {
         Chapter 8: new Windows
         LaunchPage launchPage = new LaunchPage();
          */
+        /*
+        Chapter 9: Dialog Window
+        //JOptionPane.showMessageDialog(null,"Test", "Computer", JOptionPane.PLAIN_MESSAGE);
+        //JOptionPane.showMessageDialog(null,"More Info", "Computer", JOptionPane.INFORMATION_MESSAGE);
+        //JOptionPane.showMessageDialog(null,"Question?", "Computer", JOptionPane.QUESTION_MESSAGE);
+        //while(true){JOptionPane.showMessageDialog(null,"Your Computer has a virus!", "Hacker", JOptionPane.WARNING_MESSAGE);}
+        //JOptionPane.showMessageDialog(null,"Something went wrong!", "Computer", JOptionPane.ERROR_MESSAGE);
+
+        //int answer = JOptionPane.showConfirmDialog(null,"Are you sure?", "Computer", JOptionPane.YES_NO_CANCEL_OPTION);
+        //String name = JOptionPane.showInputDialog("What is your name?");
+        //JOptionPane.showMessageDialog(null,"Hello "+name, "Computer", JOptionPane.PLAIN_MESSAGE);
+        String[] responses = {"Go back", "Restart", "Stop"};
+        JOptionPane.showOptionDialog(null, "Choose an option", "Menu", JOptionPane.YES_NO_CANCEL_OPTION,
+                JOptionPane.INFORMATION_MESSAGE, null, responses, 0);
+         */
 
     }
 }
