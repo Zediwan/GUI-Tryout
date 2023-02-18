@@ -195,6 +195,8 @@ public class Main {
          */
         /*
         Chapter 8: new Windows
+        LaunchPage launchPage = new LaunchPage();
          */
+
     }
 }
