@@ -39,6 +39,8 @@ public class Main {
         label.setHorizontalAlignment(JLabel.CENTER);
         //label.setBounds((420-250)/2,(420-250)/2,250,250); //set x and y position within frame as well as dimensions
         */
+        /*
+        Chapter 3 Panels
         JLabel label = new JLabel();
         label.setText("This is grass");
         //label.setVerticalAlignment(JLabel.CENTER);
@@ -75,5 +77,10 @@ public class Main {
         //add components before packing otherwise won't work
         //frame.pack();                       //makes the frame the minimum needed size to fit all components
 
+         */
+        /*
+        Chapter 4 Buttons:
+         */
+        MyFrame frame = new MyFrame();
     }
 }
